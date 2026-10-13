@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cardBg: #ffffff08;
+  --color-cardBorder: #ffffff1f;
+  --color-purple: #8e2ee0;
+
+  --leading-100: 100%;
+  --radius-16: 16px;
+}
